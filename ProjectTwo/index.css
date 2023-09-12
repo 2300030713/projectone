@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.one{
+    background-color: plum;
+    color: aqua;
+}
+.two{
+    background-color: aqua;
+    color: orange;
+}
+.three{
+    background-color: orange;
+    color: black;
+}
+.jaya{
+    height: 25vh;
+    display: flex;
+    border: 1hv;
+align-items: center;
+justify-content: center;
+font-style: lucida;
+}
+.four{
+    background-color: black;
+    color: beige;
+}

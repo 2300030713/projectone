@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin: 0;
+}
+
+
+    .one{
+        background-color: lilac;
+        color: white;
+    }
+
+.two{
+    background-color:white ;
+    color: pink;
+
+}
+.three{
+    background-color: pink;
+    color: aquamarine;
+}
+.jaya{
+    height: 25vh;
+    align-items: center;
+    border: 1vh;
+    justify-content: center;
+    
+}
